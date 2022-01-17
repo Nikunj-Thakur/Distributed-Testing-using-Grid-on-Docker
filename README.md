@@ -26,10 +26,10 @@ This is a sample project to set-up and demonstrate distributed parallel testing 
 # All Screens
 <img src=https://github.com/Nikunj-Thakur/Distributed-Testing-using-Grid-on-Docker/blob/main/AllScreensAll.PNG>
 
-# Container Node running Chrome
+# Docker Container Node running Chrome
 <img src=https://github.com/Nikunj-Thakur/Distributed-Testing-using-Grid-on-Docker/blob/main/Container.PNG>
 
-# Container Environment Configuration
+# Docker Container Environment Configuration
 <img src=https://github.com/Nikunj-Thakur/Distributed-Testing-using-Grid-on-Docker/blob/main/Env.PNG>
 
 # Selenium Grid running on Docker Container
