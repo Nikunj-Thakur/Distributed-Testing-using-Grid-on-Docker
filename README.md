@@ -23,10 +23,18 @@ This is a sample project to set-up and demonstrate distributed parallel testing 
 ### 3. To pull image from Docker Hub and run the Selenium Chrome-Debug node container on port 4446 [$ docker run -d -p 4446:5900 --net grid -e HUB_HOST=selenium-hub --shm-size=2g selenium/node-chrome-debug:3.141.59-20210929]
 
 
-# Sample Screenshot
+# All Screens
 <img src=https://github.com/Nikunj-Thakur/Distributed-Testing-using-Grid-on-Docker/blob/main/AllScreensAll.PNG>
+
+# Container Node running Chrome
 <img src=https://github.com/Nikunj-Thakur/Distributed-Testing-using-Grid-on-Docker/blob/main/Container.PNG>
+
+# Container Environment Configuration
 <img src=https://github.com/Nikunj-Thakur/Distributed-Testing-using-Grid-on-Docker/blob/main/Env.PNG>
+
+# Selenium Grid running on Docker Container
 <img src=https://github.com/Nikunj-Thakur/Distributed-Testing-using-Grid-on-Docker/blob/main/Grid.PNG>
+
+# Logs of Node Container running Chrome
 <img src=https://github.com/Nikunj-Thakur/Distributed-Testing-using-Grid-on-Docker/blob/main/Logs.PNG>
 
